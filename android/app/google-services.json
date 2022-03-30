@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "76833269513",
+    "project_id": "jarvis-5f72c",
+    "storage_bucket": "jarvis-5f72c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76833269513:android:fe51cfd6b6b48ff411d5d8",
+        "android_client_info": {
+          "package_name": "com.staqu.jarvis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76833269513-eg04cscomuled1en8j8nojek42msrb25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZf6zyXDDiSzWjSdKbKcuLQ3MTVMTgWYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76833269513-eg04cscomuled1en8j8nojek42msrb25.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76833269513-rk0adr0oebefj407ma9jvmobbb38m4d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.staqu.jarvis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
